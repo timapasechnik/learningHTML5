@@ -1,0 +1,6 @@
+cd path
+git status
+git add -A
+git commit -m "Some comments"
+git push
+git pull
